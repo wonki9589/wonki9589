@@ -1,11 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:9253EB,100:DA9BFF&height=300&section=header&text=I%20am%20Wonki.&fontSize=70&animation=twinkling&fontAlignY=50&fontColor=0000000&stroke=DA9BFF"/>
 <div align="center">
 
-# Web Developer 
+# _Web Developer_ 🇰🇷
 
 </div>
 
 ### ⭐ _Skill_ ⭐
+
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
