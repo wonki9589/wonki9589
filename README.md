@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:E0FF8B,30:CEF279,100:AACE55&height=200&section=header&text=wonki95891&fontSize=60&animation=twinkling&fontAlignY=50&fontColor=000000"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:E0FF8B,30:CEF279,100:AACE55&height=200&section=header&text=wonki95891&fontSize=60&animation=twinkling&fontAlignY=50&fontColor=auto"/>
 
 
 ## 🔨 Once I've used 🔨
