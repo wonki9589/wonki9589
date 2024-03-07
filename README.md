@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:E0FF8B,30:CEF279,100:AACE55&height=200&section=header&text=wonki95891&fontSize=60&animation=twinkling&fontAlignY=50&fontColor=000000"/>
+
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -37,6 +39,11 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     </div><br>
 </div>
+
+----
+
+<img src="https://capsule-render.vercel.app/api?type=Rect&color=0:E0FF8B,30:CEF279,100:AACE55&height=30&section=footer"/>
+
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonki9589&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
 -->
